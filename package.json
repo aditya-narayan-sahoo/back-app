@@ -1,0 +1,13 @@
+{
+  "name": "back-app",
+  "version": "1.0.0",
+  "description": "A backend app",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Aditya Narayan Sahoo",
+  "license": "ISC"
+}
